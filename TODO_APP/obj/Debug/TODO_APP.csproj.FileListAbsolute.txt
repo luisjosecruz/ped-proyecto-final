@@ -1,0 +1,223 @@
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\TODO_APP.exe.config
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\TODO_APP.exe
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\TODO_APP.pdb
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\System.Buffers.dll
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\System.Memory.dll
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\System.Buffers.xml
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\System.Memory.xml
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\obj\Debug\TODO_APP.csproj.AssemblyReference.cache
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\obj\Debug\TODO_APP.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\obj\Debug\TODO_APP.exe.config
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\obj\Debug\TODO_APP.Properties.Resources.resources
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\obj\Debug\TODO_APP.csproj.GenerateResource.cache
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\obj\Debug\TODO_APP.csproj.CoreCompileInputs.cache
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\obj\Debug\TODO_APP.csproj.CopyComplete
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\obj\Debug\TODO_APP.exe
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\obj\Debug\TODO_APP.pdb
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\obj\Debug\TODO_APP.login.resources
+C:\Users\ALBORAQ\source\repos\TODO_APP\TODO_APP\obj\Debug\TODO_APP.main.resources
+F:\Proyectos\Todo_App\TODO_APP\bin\Debug\TODO_APP.exe.config
+F:\Proyectos\Todo_App\TODO_APP\bin\Debug\TODO_APP.exe
+F:\Proyectos\Todo_App\TODO_APP\bin\Debug\TODO_APP.pdb
+F:\Proyectos\Todo_App\TODO_APP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Proyectos\Todo_App\TODO_APP\bin\Debug\ServiceStack.Interfaces.dll
+F:\Proyectos\Todo_App\TODO_APP\bin\Debug\System.Buffers.dll
+F:\Proyectos\Todo_App\TODO_APP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Proyectos\Todo_App\TODO_APP\bin\Debug\System.Memory.dll
+F:\Proyectos\Todo_App\TODO_APP\bin\Debug\System.Numerics.Vectors.dll
+F:\Proyectos\Todo_App\TODO_APP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Proyectos\Todo_App\TODO_APP\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Proyectos\Todo_App\TODO_APP\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+F:\Proyectos\Todo_App\TODO_APP\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+F:\Proyectos\Todo_App\TODO_APP\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+F:\Proyectos\Todo_App\TODO_APP\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+F:\Proyectos\Todo_App\TODO_APP\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+F:\Proyectos\Todo_App\TODO_APP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Proyectos\Todo_App\TODO_APP\bin\Debug\System.Buffers.xml
+F:\Proyectos\Todo_App\TODO_APP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Proyectos\Todo_App\TODO_APP\bin\Debug\System.Memory.xml
+F:\Proyectos\Todo_App\TODO_APP\bin\Debug\System.Numerics.Vectors.xml
+F:\Proyectos\Todo_App\TODO_APP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Proyectos\Todo_App\TODO_APP\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Proyectos\Todo_App\TODO_APP\obj\Debug\TODO_APP.csproj.AssemblyReference.cache
+F:\Proyectos\Todo_App\TODO_APP\obj\Debug\TODO_APP.csproj.SuggestedBindingRedirects.cache
+F:\Proyectos\Todo_App\TODO_APP\obj\Debug\TODO_APP.exe.config
+F:\Proyectos\Todo_App\TODO_APP\obj\Debug\TODO_APP.login.resources
+F:\Proyectos\Todo_App\TODO_APP\obj\Debug\TODO_APP.main.resources
+F:\Proyectos\Todo_App\TODO_APP\obj\Debug\TODO_APP.Properties.Resources.resources
+F:\Proyectos\Todo_App\TODO_APP\obj\Debug\TODO_APP.csproj.GenerateResource.cache
+F:\Proyectos\Todo_App\TODO_APP\obj\Debug\TODO_APP.csproj.CoreCompileInputs.cache
+F:\Proyectos\Todo_App\TODO_APP\obj\Debug\TODO_APP.csproj.Up2Date
+F:\Proyectos\Todo_App\TODO_APP\obj\Debug\TODO_APP.exe
+F:\Proyectos\Todo_App\TODO_APP\obj\Debug\TODO_APP.pdb
+F:\Proyectos\Todo_App\TODO_APP\obj\Debug\TODO_APP.Register.resources
+F:\Proyectos\Todo_App\TODO_APP\obj\Debug\TODO_APP.agregarTarea.resources
+F:\Proyectos\Proyecto_PED\TODO_APP\bin\Debug\TODO_APP.exe.config
+F:\Proyectos\Proyecto_PED\TODO_APP\bin\Debug\TODO_APP.exe
+F:\Proyectos\Proyecto_PED\TODO_APP\bin\Debug\TODO_APP.pdb
+F:\Proyectos\Proyecto_PED\TODO_APP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Proyectos\Proyecto_PED\TODO_APP\bin\Debug\ServiceStack.Interfaces.dll
+F:\Proyectos\Proyecto_PED\TODO_APP\bin\Debug\System.Buffers.dll
+F:\Proyectos\Proyecto_PED\TODO_APP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Proyectos\Proyecto_PED\TODO_APP\bin\Debug\System.Memory.dll
+F:\Proyectos\Proyecto_PED\TODO_APP\bin\Debug\System.Numerics.Vectors.dll
+F:\Proyectos\Proyecto_PED\TODO_APP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Proyectos\Proyecto_PED\TODO_APP\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Proyectos\Proyecto_PED\TODO_APP\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+F:\Proyectos\Proyecto_PED\TODO_APP\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+F:\Proyectos\Proyecto_PED\TODO_APP\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+F:\Proyectos\Proyecto_PED\TODO_APP\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+F:\Proyectos\Proyecto_PED\TODO_APP\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+F:\Proyectos\Proyecto_PED\TODO_APP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Proyectos\Proyecto_PED\TODO_APP\bin\Debug\System.Buffers.xml
+F:\Proyectos\Proyecto_PED\TODO_APP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Proyectos\Proyecto_PED\TODO_APP\bin\Debug\System.Memory.xml
+F:\Proyectos\Proyecto_PED\TODO_APP\bin\Debug\System.Numerics.Vectors.xml
+F:\Proyectos\Proyecto_PED\TODO_APP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Proyectos\Proyecto_PED\TODO_APP\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Proyectos\Proyecto_PED\TODO_APP\obj\Debug\TODO_APP.csproj.AssemblyReference.cache
+F:\Proyectos\Proyecto_PED\TODO_APP\obj\Debug\TODO_APP.csproj.SuggestedBindingRedirects.cache
+F:\Proyectos\Proyecto_PED\TODO_APP\obj\Debug\TODO_APP.exe.config
+F:\Proyectos\Proyecto_PED\TODO_APP\obj\Debug\TODO_APP.agregarTarea.resources
+F:\Proyectos\Proyecto_PED\TODO_APP\obj\Debug\TODO_APP.login.resources
+F:\Proyectos\Proyecto_PED\TODO_APP\obj\Debug\TODO_APP.main.resources
+F:\Proyectos\Proyecto_PED\TODO_APP\obj\Debug\TODO_APP.Properties.Resources.resources
+F:\Proyectos\Proyecto_PED\TODO_APP\obj\Debug\TODO_APP.Register.resources
+F:\Proyectos\Proyecto_PED\TODO_APP\obj\Debug\TODO_APP.csproj.GenerateResource.cache
+F:\Proyectos\Proyecto_PED\TODO_APP\obj\Debug\TODO_APP.csproj.CoreCompileInputs.cache
+F:\Proyectos\Proyecto_PED\TODO_APP\obj\Debug\TODO_APP.csproj.Up2Date
+F:\Proyectos\Proyecto_PED\TODO_APP\obj\Debug\TODO_APP.exe
+F:\Proyectos\Proyecto_PED\TODO_APP\obj\Debug\TODO_APP.pdb
+F:\Proyectos\Proyecto_PED\TODO_APP\obj\Debug\TODO_APP.actualizarTarea.resources
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\bin\Debug\TODO_APP.exe.config
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\bin\Debug\TODO_APP.exe
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\bin\Debug\TODO_APP.pdb
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\bin\Debug\System.Buffers.dll
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\bin\Debug\System.Memory.dll
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\bin\Debug\System.Buffers.xml
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\bin\Debug\System.Memory.xml
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\obj\Debug\TODO_APP.csproj.AssemblyReference.cache
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\obj\Debug\TODO_APP.csproj.SuggestedBindingRedirects.cache
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\obj\Debug\TODO_APP.exe.config
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\obj\Debug\TODO_APP.actualizarTarea.resources
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\obj\Debug\TODO_APP.agregarTarea.resources
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\obj\Debug\TODO_APP.login.resources
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\obj\Debug\TODO_APP.main.resources
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\obj\Debug\TODO_APP.Properties.Resources.resources
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\obj\Debug\TODO_APP.Register.resources
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\obj\Debug\TODO_APP.csproj.GenerateResource.cache
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\obj\Debug\TODO_APP.csproj.CoreCompileInputs.cache
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\obj\Debug\TODO_APP.csproj.Up2Date
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\obj\Debug\TODO_APP.exe
+C:\Users\corci\OneDrive\Escritorio\proyecto_PED_Fase2\TODO_APP\obj\Debug\TODO_APP.pdb
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\bin\Debug\TODO_APP.exe.config
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\bin\Debug\TODO_APP.exe
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\bin\Debug\TODO_APP.pdb
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\bin\Debug\System.Buffers.dll
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\bin\Debug\System.Memory.dll
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\bin\Debug\System.Buffers.xml
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\bin\Debug\System.Memory.xml
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\obj\Debug\TODO_APP.csproj.AssemblyReference.cache
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\obj\Debug\TODO_APP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\obj\Debug\TODO_APP.exe.config
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\obj\Debug\TODO_APP.actualizarTarea.resources
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\obj\Debug\TODO_APP.agregarTarea.resources
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\obj\Debug\TODO_APP.login.resources
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\obj\Debug\TODO_APP.main.resources
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\obj\Debug\TODO_APP.Properties.Resources.resources
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\obj\Debug\TODO_APP.Register.resources
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\obj\Debug\TODO_APP.csproj.GenerateResource.cache
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\obj\Debug\TODO_APP.csproj.CoreCompileInputs.cache
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\obj\Debug\TODO_APP.csproj.Up2Date
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\obj\Debug\TODO_APP.exe
+C:\Users\Luis Mart\Downloads\UDB 2024\FASE-1-PED\TODO_APP\obj\Debug\TODO_APP.pdb
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\bin\Debug\TODO_APP.exe.config
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\bin\Debug\TODO_APP.exe
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\bin\Debug\TODO_APP.pdb
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\bin\Debug\System.Buffers.dll
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\bin\Debug\System.Memory.dll
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\bin\Debug\System.Buffers.xml
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\bin\Debug\System.Memory.xml
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\obj\Debug\TODO_APP.csproj.AssemblyReference.cache
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\obj\Debug\TODO_APP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\obj\Debug\TODO_APP.exe.config
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\obj\Debug\TODO_APP.actualizarTarea.resources
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\obj\Debug\TODO_APP.agregarTarea.resources
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\obj\Debug\TODO_APP.login.resources
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\obj\Debug\TODO_APP.main.resources
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\obj\Debug\TODO_APP.Properties.Resources.resources
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\obj\Debug\TODO_APP.Register.resources
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\obj\Debug\TODO_APP.csproj.GenerateResource.cache
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\obj\Debug\TODO_APP.csproj.CoreCompileInputs.cache
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\obj\Debug\TODO_APP.csproj.Up2Date
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\obj\Debug\TODO_APP.exe
+C:\Users\Luis Mart\Downloads\UDB 2024\PED Proyecto Final\TODO_APP\obj\Debug\TODO_APP.pdb
